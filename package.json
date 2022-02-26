@@ -1,0 +1,19 @@
+{
+  "name": "maskify-characters",
+  "version": "0.0.1",
+  "description": "a tool to maskify characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serhatcigerci/maskify-characters.git"
+  },
+  "author": "Serhat Cigerci <yserhatcigerci@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serhatcigerci/maskify-characters/issues"
+  },
+  "homepage": "https://github.com/serhatcigerci/maskify-characters#readme"
+}
